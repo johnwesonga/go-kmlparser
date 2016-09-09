@@ -1,0 +1,4551 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>18種香港－HOCC2016演唱會有種贊助地圖</name>
+		<description><![CDATA[Goomusic感謝各位有種贊助，現在贊助單位已超過200個！<br><br>《集體獨家贊助HOCC2016演唱會——用自己方式為你代言計劃》<br>地點：香港紅磡體育館<br>日期：2016年10月8號／9號<br><br>有意參與者，請將閣下公司簡介、細節（請附上網站或卡片attachment）以及想認購的單位（units） <br>電郵至 hocc2016togetherlyexclusive@gmail.com<br>個人贊助請提供全名以及聯絡電話，謝謝合作。]]></description>
+		<Folder>
+			<name>集體獨家贊助</name>
+			<Placemark>
+				<name>大飯糖甜品小食屋</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/%E5%A4%A7%E9%A3%AF%E7%B3%96-Sweet-Canteen-154490107948303/<br>地址: 元朗洪水橋大街1號德祥樓25-26號地舖<br>聯絡電話: 24480355/24480311<br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/%E5%A4%A7%E9%A3%AF%E7%B3%96-Sweet-Canteen-154490107948303/</value>
+					</Data>
+					<Data name='地址'>
+						<value>元朗洪水橋大街1號德祥樓25-26號地舖</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>24480355/24480311</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>元朗洪水橋大街1號德祥樓25-26號地舖</address>
+			</Placemark>
+			<Placemark>
+				<name>The Corners</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/theCornershk/<br>地址: 大角咀福利街8號 ‪港灣豪庭‬ 商場地下G25舖<br>聯絡電話: 2328 8697<br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/theCornershk/</value>
+					</Data>
+					<Data name='地址'>
+						<value>大角咀福利街8號 ‪港灣豪庭‬ 商場地下G25舖</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2328 8697</value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>大角咀福利街8號 ‪港灣豪庭‬ 商場地下G25舖</address>
+			</Placemark>
+			<Placemark>
+				<name>14Gym</name>
+				<description><![CDATA[Facebook / Website: http://www.14gym.com/<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 運動]]></description>
+				<styleUrl>#icon-960-A61B4A</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.14gym.com/</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>運動</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>G.Guard</name>
+				<description><![CDATA[Facebook / Website: http://www.facebook.com/gguarhk<br>地址: 139 Wai Yip St, Ngau Tau Kok, Kowloon, Hong Kong<br>聯絡電話: <br>分類: 汽車]]></description>
+				<styleUrl>#icon-960-D698AD</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.facebook.com/gguarhk</value>
+					</Data>
+					<Data name='地址'>
+						<value>139 Wai Yip St, Ngau Tau Kok, Kowloon, Hong Kong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>汽車</value>
+					</Data>
+				</ExtendedData>
+				<address>139 Wai Yip St, Ngau Tau Kok, Kowloon, Hong Kong</address>
+			</Placemark>
+			<Placemark>
+				<name>FreeUp Music</name>
+				<description><![CDATA[Facebook / Website: http://www.facebook.com/3upmusic/<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 音樂及藝術]]></description>
+				<styleUrl>#icon-960-C6A4CF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.facebook.com/3upmusic/</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>音樂及藝術</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>凱明製衣有限公司</name>
+				<description><![CDATA[Facebook / Website: n/a<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 服裝及配飾]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>n/a</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>服裝及配飾</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>All Day Breakfast Creative Boutique Limited</name>
+				<description><![CDATA[Facebook / Website: http://www.alldaybreakfast.com.hk/<br>地址: 20E, Bank Tower, 351-353 King's Road, North Point, Hong Kong<br>聯絡電話: 24344628<br>分類: 廣告服務]]></description>
+				<styleUrl>#icon-960-795046</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.alldaybreakfast.com.hk/</value>
+					</Data>
+					<Data name='地址'>
+						<value>20E, Bank Tower, 351-353 King's Road, North Point, Hong Kong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>24344628</value>
+					</Data>
+					<Data name='分類'>
+						<value>廣告服務</value>
+					</Data>
+				</ExtendedData>
+				<address>20E, Bank Tower, 351-353 King's Road, North Point, Hong Kong</address>
+			</Placemark>
+			<Placemark>
+				<name>Genic Eyewear</name>
+				<description><![CDATA[Facebook / Website: http://www.facebook.com/geniceyewear<br>地址: 尖沙咀河內道K11藝術購物中心1樓101號 K11 Select內3號<br>聯絡電話: <br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.facebook.com/geniceyewear</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀河內道K11藝術購物中心1樓101號 K11 Select內3號</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀河內道K11藝術購物中心1樓101號 K11 Select內3號</address>
+			</Placemark>
+			<Placemark>
+				<name>KASO Grocery 嘉嫂海味雜貨店</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/kasogrocery/<br>地址: 鴨脷洲海怡半島東商場 地下濕街市40號<br>聯絡電話: <br>分類: 柴米油鹽]]></description>
+				<styleUrl>#icon-960-93D7E8</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/kasogrocery/</value>
+					</Data>
+					<Data name='地址'>
+						<value>鴨脷洲海怡半島東商場 地下濕街市40號</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>柴米油鹽</value>
+					</Data>
+				</ExtendedData>
+				<address>鴨脷洲海怡半島東商場 地下濕街市40號</address>
+			</Placemark>
+			<Placemark>
+				<name>L Wish Motors Services Ltd. 汽車室內設計專門店</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/LWish-Motors-Services-Ltd-250269078346238/<br>地址: 觀塘雲漢街55號地下<br>聯絡電話: 34881315<br>分類: 汽車]]></description>
+				<styleUrl>#icon-960-D698AD</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/LWish-Motors-Services-Ltd-250269078346238/</value>
+					</Data>
+					<Data name='地址'>
+						<value>觀塘雲漢街55號地下</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>34881315</value>
+					</Data>
+					<Data name='分類'>
+						<value>汽車</value>
+					</Data>
+				</ExtendedData>
+				<address>觀塘雲漢街55號地下</address>
+			</Placemark>
+			<Placemark>
+				<name>搶鮮食品</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/getfreshexpress<br>地址: 葵涌國瑞路海霸新村九號地下<br>聯絡電話: 66519151<br>分類: 柴米油鹽]]></description>
+				<styleUrl>#icon-960-93D7E8</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/getfreshexpress</value>
+					</Data>
+					<Data name='地址'>
+						<value>葵涌國瑞路海霸新村九號地下</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>66519151</value>
+					</Data>
+					<Data name='分類'>
+						<value>柴米油鹽</value>
+					</Data>
+				</ExtendedData>
+				<address>葵涌國瑞路海霸新村九號地下</address>
+			</Placemark>
+			<Placemark>
+				<name>Tactual</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/tactual<br>地址: 旺角潮流特區 3樓324號鋪<br>聯絡電話: 22648788<br>分類: 服裝及配飾]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/tactual</value>
+					</Data>
+					<Data name='地址'>
+						<value>旺角潮流特區 3樓324號鋪</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>22648788</value>
+					</Data>
+					<Data name='分類'>
+						<value>服裝及配飾</value>
+					</Data>
+				</ExtendedData>
+				<address>旺角潮流特區 3樓324號鋪</address>
+			</Placemark>
+			<Placemark>
+				<name>醫思坊中醫診所</name>
+				<description><![CDATA[Facebook / Website: http://www.facebook.com/ec.chinese.medicine.clinic/<br>地址: 新界葵芳葵涌廣場3樓摩登世界25號舖<br>聯絡電話: 54060108<br>分類: 醫療]]></description>
+				<styleUrl>#icon-960-B29189</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.facebook.com/ec.chinese.medicine.clinic/</value>
+					</Data>
+					<Data name='地址'>
+						<value>新界葵芳葵涌廣場3樓摩登世界25號舖</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>54060108</value>
+					</Data>
+					<Data name='分類'>
+						<value>醫療</value>
+					</Data>
+				</ExtendedData>
+				<address>新界葵芳葵涌廣場3樓摩登世界25號舖</address>
+			</Placemark>
+			<Placemark>
+				<name>Sun Yip Engineering Co.</name>
+				<description><![CDATA[Facebook / Website: n/a<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 室內設計/裝修]]></description>
+				<styleUrl>#icon-960-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>n/a</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>室內設計/裝修</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name> Rise Smart Overseas Education Centre</name>
+				<description><![CDATA[Facebook / Website: http://www.risesmart.com.hk/<br>地址: 香港九龍尖沙咀金馬倫道23-25A 金馬倫廣場 9樓 F室<br>聯絡電話: <br>分類: 教育]]></description>
+				<styleUrl>#icon-960-E6EEA3</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.risesmart.com.hk/</value>
+					</Data>
+					<Data name='地址'>
+						<value>香港九龍尖沙咀金馬倫道23-25A 金馬倫廣場 9樓 F室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>教育</value>
+					</Data>
+				</ExtendedData>
+				<address>香港九龍尖沙咀金馬倫道23-25A 金馬倫廣場 9樓 F室</address>
+			</Placemark>
+			<Placemark>
+				<name>光之子工作坊 Volts Workshop</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/Voltsworkshop/<br>地址: 尖沙咀天星碼頭<br>聯絡電話: 93777470<br>分類: 其他]]></description>
+				<styleUrl>#icon-960-7CCFA9</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/Voltsworkshop/</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>93777470</value>
+					</Data>
+					<Data name='分類'>
+						<value>其他</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>毛記電視</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/tvmosthk<br>地址: 新界葵涌大圓街11-13 號同珍工業大廈B座22樓5室<br>聯絡電話: 23322026<br>分類: 傳媒]]></description>
+				<styleUrl>#icon-960-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/tvmosthk</value>
+					</Data>
+					<Data name='地址'>
+						<value>新界葵涌大圓街11-13 號同珍工業大廈B座22樓5室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>23322026</value>
+					</Data>
+					<Data name='分類'>
+						<value>傳媒</value>
+					</Data>
+				</ExtendedData>
+				<address>新界葵涌大圓街11-13 號同珍工業大廈B座22樓5室</address>
+			</Placemark>
+			<Placemark>
+				<name>_ODY</name>
+				<description><![CDATA[Facebook / Website: http://www.odytheofficial.com/<br>地址: Unit A, 6/F, Golden Dragon Industrial Centre Blcok 4, 184 Tai Lin Pai Rd, Kwai Chung, New Territories, Hong Kong<br>聯絡電話: 62067356<br>分類: 消閒]]></description>
+				<styleUrl>#icon-960-CDDC39</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.odytheofficial.com/</value>
+					</Data>
+					<Data name='地址'>
+						<value>Unit A, 6/F, Golden Dragon Industrial Centre Blcok 4, 184 Tai Lin Pai Rd, Kwai Chung, New Territories, Hong Kong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>62067356</value>
+					</Data>
+					<Data name='分類'>
+						<value>消閒</value>
+					</Data>
+				</ExtendedData>
+				<address>Unit A, 6/F, Golden Dragon Industrial Centre Blcok 4, 184 Tai Lin Pai Rd, Kwai Chung, New Territories, Hong Kong</address>
+			</Placemark>
+			<Placemark>
+				<name>M.A.D.</name>
+				<description><![CDATA[Facebook / Website: www.facebook.com/MAD-food-lifestyle<br>地址: 20B Yally Industrial building 6 Yip Fat Street, Hong Kong Wong Chuk Hang, Hong Kong<br>聯絡電話: <br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.facebook.com/MAD-food-lifestyle</value>
+					</Data>
+					<Data name='地址'>
+						<value>20B Yally Industrial building 6 Yip Fat Street, Hong Kong Wong Chuk Hang, Hong Kong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>20B Yally Industrial building 6 Yip Fat Street, Hong Kong Wong Chuk Hang, Hong Kong</address>
+			</Placemark>
+			<Placemark>
+				<name>Winnie Therapy Center</name>
+				<description><![CDATA[Facebook / Website: http://www.winnietherapycentre.com.hk/<br>地址: 九龍旺角彌敦道720號家樂樓4樓404室<br>聯絡電話: <br>分類: 醫療]]></description>
+				<styleUrl>#icon-960-B29189</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.winnietherapycentre.com.hk/</value>
+					</Data>
+					<Data name='地址'>
+						<value>九龍旺角彌敦道720號家樂樓4樓404室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>醫療</value>
+					</Data>
+				</ExtendedData>
+				<address>九龍旺角彌敦道720號家樂樓4樓404室</address>
+			</Placemark>
+			<Placemark>
+				<name>The Artilicious Cakery </name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/TheArtiliciousCakery/?fref=ts<br>地址: Rm A, 11/F, Shun Cheung Ind Bldg, 24-26 Wing Hong Street, 0000 Lai Chi Kok, Hong Kong<br>聯絡電話: 9833 2604<br>分類: 人生大事]]></description>
+				<styleUrl>#icon-960-F9F7A6</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/TheArtiliciousCakery/?fref=ts</value>
+					</Data>
+					<Data name='地址'>
+						<value>Rm A, 11/F, Shun Cheung Ind Bldg, 24-26 Wing Hong Street, 0000 Lai Chi Kok, Hong Kong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>9833 2604</value>
+					</Data>
+					<Data name='分類'>
+						<value>人生大事</value>
+					</Data>
+				</ExtendedData>
+				<address>Rm A, 11/F, Shun Cheung Ind Bldg, 24-26 Wing Hong Street, 0000 Lai Chi Kok, Hong Kong</address>
+			</Placemark>
+			<Placemark>
+				<name>C3 Design Group Ltd</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/C3InteriorDesign<br>地址: Room D09, 2/F Manning Ind Bldg, 116-118 How Ming St, Kwun Tong, Hong Kong<br>聯絡電話: 3689 8643<br>分類: 室內設計/裝修]]></description>
+				<styleUrl>#icon-960-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/C3InteriorDesign</value>
+					</Data>
+					<Data name='地址'>
+						<value>Room D09, 2/F Manning Ind Bldg, 116-118 How Ming St, Kwun Tong, Hong Kong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>3689 8643</value>
+					</Data>
+					<Data name='分類'>
+						<value>室內設計/裝修</value>
+					</Data>
+				</ExtendedData>
+				<address>Room D09, 2/F Manning Ind Bldg, 116-118 How Ming St, Kwun Tong, Hong Kong</address>
+			</Placemark>
+			<Placemark>
+				<name>寧心堂中醫舘</name>
+				<description><![CDATA[Facebook / Website: http://www.qualitytcm.com/<br>地址: 香港中環威靈頓街98號 翡翠中心5樓A室<br>聯絡電話: 28818267<br>分類: 醫療]]></description>
+				<styleUrl>#icon-960-B29189</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.qualitytcm.com/</value>
+					</Data>
+					<Data name='地址'>
+						<value>香港中環威靈頓街98號 翡翠中心5樓A室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>28818267</value>
+					</Data>
+					<Data name='分類'>
+						<value>醫療</value>
+					</Data>
+				</ExtendedData>
+				<address>香港中環威靈頓街98號 翡翠中心5樓A室</address>
+			</Placemark>
+			<Placemark>
+				<name>又飛啦！flyagain.la</name>
+				<description><![CDATA[Facebook / Website: http://www.facebook.com/flyagainla<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.facebook.com/flyagainla</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>Go Go Star</name>
+				<description><![CDATA[Facebook / Website: http://www.facebook.com/gogo.star515<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 服裝及配飾]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.facebook.com/gogo.star515</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>服裝及配飾</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>Maison Wine</name>
+				<description><![CDATA[Facebook / Website: www.maisonwine.com<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.maisonwine.com</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>威威音響</name>
+				<description><![CDATA[Facebook / Website: http://www.wiwitubes.com/<br>地址: 中環皇后大道中 184-192 恆隆大廈三樓<br>聯絡電話: 25442579<br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.wiwitubes.com/</value>
+					</Data>
+					<Data name='地址'>
+						<value>中環皇后大道中 184-192 恆隆大廈三樓</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>25442579</value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>中環皇后大道中 184-192 恆隆大廈三樓</address>
+			</Placemark>
+			<Placemark>
+				<name>博勢力</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/myblogs.asia/<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: blog]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/myblogs.asia/</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>blog</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>Tina's Choice</name>
+				<description><![CDATA[Facebook / Website: http://www.tinaschoice.com/<br>地址: 香港銅鑼灣希慎道33號利園一期三樓309<br>聯絡電話: <br>分類: 服裝及配飾]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.tinaschoice.com/</value>
+					</Data>
+					<Data name='地址'>
+						<value>香港銅鑼灣希慎道33號利園一期三樓309</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>服裝及配飾</value>
+					</Data>
+				</ExtendedData>
+				<address>香港銅鑼灣希慎道33號利園一期三樓309</address>
+			</Placemark>
+			<Placemark>
+				<name>La Muse Studio 繆斯藝術</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/LaMuseStudio/?fref=ts<br>地址: 九龍界限街108號地下<br>聯絡電話: 2336 0466<br>分類: 音樂及藝術]]></description>
+				<styleUrl>#icon-960-C6A4CF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/LaMuseStudio/?fref=ts</value>
+					</Data>
+					<Data name='地址'>
+						<value>九龍界限街108號地下</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2336 0466</value>
+					</Data>
+					<Data name='分類'>
+						<value>音樂及藝術</value>
+					</Data>
+				</ExtendedData>
+				<address>九龍界限街108號地下</address>
+			</Placemark>
+			<Placemark>
+				<name>Fishing-One Tackle Shop</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/Fishingone.holly/<br>地址: Shop 3, Yen Yin Mansion , No. 8 Ferry Street,Jordan, Kowloon, Hong Kong<br>聯絡電話: <br>分類: 運動]]></description>
+				<styleUrl>#icon-960-A61B4A</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/Fishingone.holly/</value>
+					</Data>
+					<Data name='地址'>
+						<value>Shop 3, Yen Yin Mansion , No. 8 Ferry Street,Jordan, Kowloon, Hong Kong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>運動</value>
+					</Data>
+				</ExtendedData>
+				<address>Shop 3, Yen Yin Mansion , No. 8 Ferry Street,Jordan, Kowloon, Hong Kong</address>
+			</Placemark>
+			<Placemark>
+				<name>雞煲棧元朗</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/ChickenPotHutYL/<br>地址: 元朗媽橫路21-43號地下11號舖<br>聯絡電話: 21421618<br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/ChickenPotHutYL/</value>
+					</Data>
+					<Data name='地址'>
+						<value>元朗媽橫路21-43號地下11號舖</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>21421618</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>元朗媽橫路21-43號地下11號舖</address>
+			</Placemark>
+			<Placemark>
+				<name>Puff Terrariums</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/puffterrariums<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/puffterrariums</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>heydaysss</name>
+				<description><![CDATA[Facebook / Website: http://www.heydaysss.com/<br>地址: 8/F, Flat A, 388 King's Road, North Cape Commercial Building, North Point <br>聯絡電話: <br>分類: 廣告服務]]></description>
+				<styleUrl>#icon-960-795046</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.heydaysss.com/</value>
+					</Data>
+					<Data name='地址'>
+						<value>8/F, Flat A, 388 King's Road, North Cape Commercial Building, North Point </value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>廣告服務</value>
+					</Data>
+				</ExtendedData>
+				<address>8/F, Flat A, 388 King's Road, North Cape Commercial Building, North Point</address>
+			</Placemark>
+			<Placemark>
+				<name>Color Life Production</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/colorlifeproduction/<br>地址: 尖沙咀天星碼頭<br>聯絡電話: 94806377<br>分類: 人生大事]]></description>
+				<styleUrl>#icon-960-F9F7A6</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/colorlifeproduction/</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>94806377</value>
+					</Data>
+					<Data name='分類'>
+						<value>人生大事</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>Hidden Coffee </name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/HiddenCoffeeHK/<br>地址: 屯門新安街18號怡華工業大廈16樓5A<br>聯絡電話: 64901236<br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/HiddenCoffeeHK/</value>
+					</Data>
+					<Data name='地址'>
+						<value>屯門新安街18號怡華工業大廈16樓5A</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>64901236</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>屯門新安街18號怡華工業大廈16樓5A</address>
+			</Placemark>
+			<Placemark>
+				<name>Brown sugar</name>
+				<description><![CDATA[Facebook / Website: http://www.facebook.com/brownsugar.hkshop<br>地址: 旺角花園街2-16號好景商業中心1805室<br>聯絡電話: 64199696<br>分類: 服裝及配飾]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.facebook.com/brownsugar.hkshop</value>
+					</Data>
+					<Data name='地址'>
+						<value>旺角花園街2-16號好景商業中心1805室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>64199696</value>
+					</Data>
+					<Data name='分類'>
+						<value>服裝及配飾</value>
+					</Data>
+				</ExtendedData>
+				<address>旺角花園街2-16號好景商業中心1805室</address>
+			</Placemark>
+			<Placemark>
+				<name>四喜麵包西餅 SayHey4Cake </name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/pages/%E5%9B%9B%E5%96%9C%E9%BA%B5%E5%8C%85%E8%A5%BF%E9%A4%85/1017045938306103?fref=ts<br>地址: 深水埗南昌街89號<br>聯絡電話: 39570883 / 96541604<br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/pages/%E5%9B%9B%E5%96%9C%E9%BA%B5%E5%8C%85%E8%A5%BF%E9%A4%85/1017045938306103?fref=ts</value>
+					</Data>
+					<Data name='地址'>
+						<value>深水埗南昌街89號</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>39570883 / 96541604</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>深水埗南昌街89號</address>
+			</Placemark>
+			<Placemark>
+				<name>SECRET CORNER</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/secretcorner<br>地址: 銅鑼灣霎東街15號OLIV 20樓<br>聯絡電話: 28811381<br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/secretcorner</value>
+					</Data>
+					<Data name='地址'>
+						<value>銅鑼灣霎東街15號OLIV 20樓</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>28811381</value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>銅鑼灣霎東街15號OLIV 20樓</address>
+			</Placemark>
+			<Placemark>
+				<name>Doggie Taste 焦糖生活</name>
+				<description><![CDATA[Facebook / Website: http://www.facebook.com/doggietaste<br>地址: 觀塘駿業里10號業運工業大廈6樓A室<br>聯絡電話: 23411345<br>分類: 寵物護理]]></description>
+				<styleUrl>#icon-960-F8971B</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.facebook.com/doggietaste</value>
+					</Data>
+					<Data name='地址'>
+						<value>觀塘駿業里10號業運工業大廈6樓A室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>23411345</value>
+					</Data>
+					<Data name='分類'>
+						<value>寵物護理</value>
+					</Data>
+				</ExtendedData>
+				<address>觀塘駿業里10號業運工業大廈6樓A室</address>
+			</Placemark>
+			<Placemark>
+				<name>思靈室內設計裝修</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/Typeonedesignhouse<br>地址: 柴灣道333號永利中心地庫 C08及D10舖<br>聯絡電話: 34622785<br>分類: 室內設計/裝修]]></description>
+				<styleUrl>#icon-960-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/Typeonedesignhouse</value>
+					</Data>
+					<Data name='地址'>
+						<value>柴灣道333號永利中心地庫 C08及D10舖</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>34622785</value>
+					</Data>
+					<Data name='分類'>
+						<value>室內設計/裝修</value>
+					</Data>
+				</ExtendedData>
+				<address>柴灣道333號永利中心地庫 C08及D10舖</address>
+			</Placemark>
+			<Placemark>
+				<name>Wujai Music</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/wujaimusic<br>地址: 尖沙咀天星碼頭<br>聯絡電話: 68466982<br>分類: 音樂及藝術]]></description>
+				<styleUrl>#icon-960-C6A4CF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/wujaimusic</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>68466982</value>
+					</Data>
+					<Data name='分類'>
+						<value>音樂及藝術</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>香港帛事花店</name>
+				<description><![CDATA[Facebook / Website: www.hk-flowers.com <br>地址: 紅磡寶其利街165-167號地鋪 D,E<br>聯絡電話: 24189106<br>分類: 人生大事]]></description>
+				<styleUrl>#icon-960-F9F7A6</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.hk-flowers.com </value>
+					</Data>
+					<Data name='地址'>
+						<value>紅磡寶其利街165-167號地鋪 D,E</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>24189106</value>
+					</Data>
+					<Data name='分類'>
+						<value>人生大事</value>
+					</Data>
+				</ExtendedData>
+				<address>紅磡寶其利街165-167號地鋪 D,E</address>
+			</Placemark>
+			<Placemark>
+				<name>Bittersweet Cafe</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/bittersweetcafehk/<br>地址: 粉嶺聯和墟和豐街<br>聯絡電話: 26026711<br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/bittersweetcafehk/</value>
+					</Data>
+					<Data name='地址'>
+						<value>粉嶺聯和墟和豐街</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>26026711</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>粉嶺聯和墟和豐街</address>
+			</Placemark>
+			<Placemark>
+				<name> Pure.t 淳</name>
+				<description><![CDATA[Facebook / Website: www.facebook.com/purethouse<br>地址: 薄扶林道37號地庫A店<br>聯絡電話: 51260522<br>分類: 寵物護理]]></description>
+				<styleUrl>#icon-960-F8971B</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.facebook.com/purethouse</value>
+					</Data>
+					<Data name='地址'>
+						<value>薄扶林道37號地庫A店</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>51260522</value>
+					</Data>
+					<Data name='分類'>
+						<value>寵物護理</value>
+					</Data>
+				</ExtendedData>
+				<address>薄扶林道37號地庫A店</address>
+			</Placemark>
+			<Placemark>
+				<name>Agassi Fashion</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/Agassi.fashion/<br>地址: 葵涌廣場, 3樓, SHOP 3069-T2<br>聯絡電話: 93235054<br>分類: 服裝及配飾]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/Agassi.fashion/</value>
+					</Data>
+					<Data name='地址'>
+						<value>葵涌廣場, 3樓, SHOP 3069-T2</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>93235054</value>
+					</Data>
+					<Data name='分類'>
+						<value>服裝及配飾</value>
+					</Data>
+				</ExtendedData>
+				<address>葵涌廣場, 3樓, SHOP 3069-T2</address>
+			</Placemark>
+			<Placemark>
+				<name>頑童玩具</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/NGtoyshop/<br>地址: 旺角信和中心3樓304室<br>聯絡電話: 96889394<br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/NGtoyshop/</value>
+					</Data>
+					<Data name='地址'>
+						<value>旺角信和中心3樓304室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>96889394</value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>旺角信和中心3樓304室</address>
+			</Placemark>
+			<Placemark>
+				<name>Cheese n Dash</name>
+				<description><![CDATA[Facebook / Website: http://facebook.com/cheesendash/<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 寵物護理]]></description>
+				<styleUrl>#icon-960-F8971B</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://facebook.com/cheesendash/</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>寵物護理</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>康活信物理治療有限公司</name>
+				<description><![CDATA[Facebook / Website: www.horizon-physio.com<br>地址: 香港銅鑼灣堅拿道西15號永德大廈閣樓<br>聯絡電話: 25736162<br>分類: 醫療]]></description>
+				<styleUrl>#icon-960-B29189</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.horizon-physio.com</value>
+					</Data>
+					<Data name='地址'>
+						<value>香港銅鑼灣堅拿道西15號永德大廈閣樓</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>25736162</value>
+					</Data>
+					<Data name='分類'>
+						<value>醫療</value>
+					</Data>
+				</ExtendedData>
+				<address>香港銅鑼灣堅拿道西15號永德大廈閣樓</address>
+			</Placemark>
+			<Placemark>
+				<name>Smartworkshop 薯嘜社區</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/smartworkshop.hk/<br>地址: 官塘駿業里10號業運工業大厦7樓C1室<br>聯絡電話: 91505000<br>分類: 個人護理]]></description>
+				<styleUrl>#icon-960-0BA9CC</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/smartworkshop.hk/</value>
+					</Data>
+					<Data name='地址'>
+						<value>官塘駿業里10號業運工業大厦7樓C1室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>91505000</value>
+					</Data>
+					<Data name='分類'>
+						<value>個人護理</value>
+					</Data>
+				</ExtendedData>
+				<address>官塘駿業里10號業運工業大厦7樓C1室</address>
+			</Placemark>
+			<Placemark>
+				<name>Little Right Hand Cakery</name>
+				<description><![CDATA[Facebook / Website: http://littlerighthand.co.uk/<br>地址: The Bar<br>  St. James Gate<br>  Newcastle upon Tyne<br>  NE1 4BA<br>聯絡電話: 0747 0458 163<br>分類: 人生大事]]></description>
+				<styleUrl>#icon-960-F9F7A6</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://littlerighthand.co.uk/</value>
+					</Data>
+					<Data name='地址'>
+						<value>The Bar
+  St. James Gate
+  Newcastle upon Tyne
+  NE1 4BA</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>0747 0458 163</value>
+					</Data>
+					<Data name='分類'>
+						<value>人生大事</value>
+					</Data>
+				</ExtendedData>
+				<address>The Bar
+  St. James Gate
+  Newcastle upon Tyne
+  NE1 4BA</address>
+			</Placemark>
+			<Placemark>
+				<name>CUCKOO'S NEST 杜鵑窩</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/CUCKOOS.NEST.HK/<br>地址: 尖沙咀天星碼頭<br>聯絡電話: 91639545<br>分類: 服裝及配飾]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/CUCKOOS.NEST.HK/</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>91639545</value>
+					</Data>
+					<Data name='分類'>
+						<value>服裝及配飾</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>Blisshive Bakery Cafe</name>
+				<description><![CDATA[Facebook / Website: www.facebook.com/blisshive<br>地址: 大坑蓮花街一號<br>聯絡電話: 25661023<br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.facebook.com/blisshive</value>
+					</Data>
+					<Data name='地址'>
+						<value>大坑蓮花街一號</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>25661023</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>大坑蓮花街一號</address>
+			</Placemark>
+			<Placemark>
+				<name>OA, My Dear Café </name>
+				<description><![CDATA[Facebook / Website: www.facebook.com/oamydearcafe<br>地址: 萬華區西寧南路54號2F<br>  Taipei,<br>聯絡電話: (886) 2 2381 0258<br>分類: 台灣地區]]></description>
+				<styleUrl>#icon-960-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.facebook.com/oamydearcafe</value>
+					</Data>
+					<Data name='地址'>
+						<value>萬華區西寧南路54號2F
+  Taipei,</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>(886) 2 2381 0258</value>
+					</Data>
+					<Data name='分類'>
+						<value>台灣地區</value>
+					</Data>
+				</ExtendedData>
+				<address>萬華區西寧南路54號2F
+  Taipei,</address>
+			</Placemark>
+			<Placemark>
+				<name>element Watches</name>
+				<description><![CDATA[Facebook / Website: www.elementwatches.co<br>地址: Homeless ：G/F, 29 Gough Street, Central, HK<br>聯絡電話: https://www.facebook.com/watchdesignelement/<br>分類: 服裝及配飾]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.elementwatches.co</value>
+					</Data>
+					<Data name='地址'>
+						<value>Homeless ：G/F, 29 Gough Street, Central, HK</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>https://www.facebook.com/watchdesignelement/</value>
+					</Data>
+					<Data name='分類'>
+						<value>服裝及配飾</value>
+					</Data>
+				</ExtendedData>
+				<address>Homeless ：G/F, 29 Gough Street, Central, HK</address>
+			</Placemark>
+			<Placemark>
+				<name>響片100FUN狗狗教養訓練</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/vivian.wong.5070<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 寵物護理]]></description>
+				<styleUrl>#icon-960-F8971B</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/vivian.wong.5070</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>寵物護理</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>C&amp;S Marriage and Wedding Planning</name>
+				<description><![CDATA[Facebook / Website: http://www.facebook.com/cnswedding<br>地址: Room 836, Rykadan Capital Tower, 135 Hoi Bun Road, Kwun Tong<br>聯絡電話: 2135 7105<br>分類: 人生大事]]></description>
+				<styleUrl>#icon-960-F9F7A6</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.facebook.com/cnswedding</value>
+					</Data>
+					<Data name='地址'>
+						<value>Room 836, Rykadan Capital Tower, 135 Hoi Bun Road, Kwun Tong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2135 7105</value>
+					</Data>
+					<Data name='分類'>
+						<value>人生大事</value>
+					</Data>
+				</ExtendedData>
+				<address>Room 836, Rykadan Capital Tower, 135 Hoi Bun Road, Kwun Tong</address>
+			</Placemark>
+			<Placemark>
+				<name>Sinbad Coffee Roasters Ltd.</name>
+				<description><![CDATA[Facebook / Website: www.sinbadcoffee.com<br>地址: 尖沙咀天星碼頭<br>聯絡電話: 3568 8503<br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.sinbadcoffee.com</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>3568 8503</value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>Sigma Mascot (HK) Limited</name>
+				<description><![CDATA[Facebook / Website: http://www.facebook.com/SigmaMascot/<br>地址: Wing Cheong Industrial Bldg, 58 Kwai Cheong Rd, Kwai Chung<br>聯絡電話: 3563 8841<br>分類: 專業服務]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.facebook.com/SigmaMascot/</value>
+					</Data>
+					<Data name='地址'>
+						<value>Wing Cheong Industrial Bldg, 58 Kwai Cheong Rd, Kwai Chung</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>3563 8841</value>
+					</Data>
+					<Data name='分類'>
+						<value>專業服務</value>
+					</Data>
+				</ExtendedData>
+				<address>Wing Cheong Industrial Bldg, 58 Kwai Cheong Rd, Kwai Chung</address>
+			</Placemark>
+			<Placemark>
+				<name>Karen Wong Ceramics &amp; Art Ltd. 樂陶畫</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/Karenwongceramics/<br>地址: 屯門石排頭路 7 號，德雅工業中心B座7樓14室<br>聯絡電話: 9863 2210<br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/Karenwongceramics/</value>
+					</Data>
+					<Data name='地址'>
+						<value>屯門石排頭路 7 號，德雅工業中心B座7樓14室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>9863 2210</value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>屯門石排頭路 7 號，德雅工業中心B座7樓14室</address>
+			</Placemark>
+			<Placemark>
+				<name>BOYMUI牛快樂日記</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/boymuicow/?fref=ts<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 其他]]></description>
+				<styleUrl>#icon-960-7CCFA9</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/boymuicow/?fref=ts</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>其他</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>飛藥堂參茸海味</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/%E9%A3%9B%E8%97%A5%E5%A0%82%E5%8F%83%E8%8C%B8%E6%B5%B7%E5%91%B3-427675927413451/<br>地址: 銅鑼灣軒尼詩道505號電業城13樓17室<br>聯絡電話: 90494631<br>分類: 柴米油鹽]]></description>
+				<styleUrl>#icon-960-93D7E8</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/%E9%A3%9B%E8%97%A5%E5%A0%82%E5%8F%83%E8%8C%B8%E6%B5%B7%E5%91%B3-427675927413451/</value>
+					</Data>
+					<Data name='地址'>
+						<value>銅鑼灣軒尼詩道505號電業城13樓17室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>90494631</value>
+					</Data>
+					<Data name='分類'>
+						<value>柴米油鹽</value>
+					</Data>
+				</ExtendedData>
+				<address>銅鑼灣軒尼詩道505號電業城13樓17室</address>
+			</Placemark>
+			<Placemark>
+				<name>ten Design Stationery</name>
+				<description><![CDATA[Facebook / Website: http://store.ten-design-stationery.com/<br>地址: 尖沙咀天星碼頭<br>聯絡電話: 93158234<br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://store.ten-design-stationery.com/</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>93158234</value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>Creative Clouds Ltd</name>
+				<description><![CDATA[Facebook / Website: http://www.creativeclouds.com/<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 專業服務]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.creativeclouds.com/</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>專業服務</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>VIA Eyewear</name>
+				<description><![CDATA[Facebook / Website: www.via-eyewear.com<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 服裝及配飾]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.via-eyewear.com</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>服裝及配飾</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>Oh! Cosmetics </name>
+				<description><![CDATA[Facebook / Website: www.facebook.com/ohcosmeticsmo<br>地址: 澳門東望洋新街28號錦康大廈地下B<br>聯絡電話: (853) 28353008<br>分類: 個人護理]]></description>
+				<styleUrl>#icon-960-0BA9CC</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.facebook.com/ohcosmeticsmo</value>
+					</Data>
+					<Data name='地址'>
+						<value>澳門東望洋新街28號錦康大廈地下B</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>(853) 28353008</value>
+					</Data>
+					<Data name='分類'>
+						<value>個人護理</value>
+					</Data>
+				</ExtendedData>
+				<address>澳門東望洋新街28號錦康大廈地下B</address>
+			</Placemark>
+			<Placemark>
+				<name>ZUC.CCH.ERO</name>
+				<description><![CDATA[Facebook / Website: www.facebook.com/ZUC.CCH.ERO<br>地址: 銅鑼灣耀華街3號百樂中心18樓1802-3室<br>聯絡電話: 3427 9828<br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.facebook.com/ZUC.CCH.ERO</value>
+					</Data>
+					<Data name='地址'>
+						<value>銅鑼灣耀華街3號百樂中心18樓1802-3室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>3427 9828</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>銅鑼灣耀華街3號百樂中心18樓1802-3室</address>
+			</Placemark>
+			<Placemark>
+				<name>Mindful Fitness Studio</name>
+				<description><![CDATA[Facebook / Website: www.facebook.com/mindfulfitnesshk<br>地址: 九龍觀塘鴻圖道58號金凱工業大廈2樓22室<br>聯絡電話: 68781455<br>分類: 運動]]></description>
+				<styleUrl>#icon-960-A61B4A</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.facebook.com/mindfulfitnesshk</value>
+					</Data>
+					<Data name='地址'>
+						<value>九龍觀塘鴻圖道58號金凱工業大廈2樓22室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>68781455</value>
+					</Data>
+					<Data name='分類'>
+						<value>運動</value>
+					</Data>
+				</ExtendedData>
+				<address>九龍觀塘鴻圖道58號金凱工業大廈2樓22室</address>
+			</Placemark>
+			<Placemark>
+				<name>Science JR. </name>
+				<description><![CDATA[Facebook / Website: www.facebook.com/sciencejr.education<br>地址: Shop109B, Podium, Phase 4, Mei Foo Sun Chuen<br>聯絡電話: 95465123<br>分類: 教育]]></description>
+				<styleUrl>#icon-960-E6EEA3</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.facebook.com/sciencejr.education</value>
+					</Data>
+					<Data name='地址'>
+						<value>Shop109B, Podium, Phase 4, Mei Foo Sun Chuen</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>95465123</value>
+					</Data>
+					<Data name='分類'>
+						<value>教育</value>
+					</Data>
+				</ExtendedData>
+				<address>Shop109B, Podium, Phase 4, Mei Foo Sun Chuen</address>
+			</Placemark>
+			<Placemark>
+				<name>LRCF Fitness Box</name>
+				<description><![CDATA[Facebook / Website: http://www.lrcffitnessbox.club/<br>地址: G/F, 25, Tong Mi Road, Mong Kok, Kowloon, Hong Kong<br>聯絡電話: 2658 6218<br>分類: 運動]]></description>
+				<styleUrl>#icon-960-A61B4A</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.lrcffitnessbox.club/</value>
+					</Data>
+					<Data name='地址'>
+						<value>G/F, 25, Tong Mi Road, Mong Kok, Kowloon, Hong Kong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2658 6218</value>
+					</Data>
+					<Data name='分類'>
+						<value>運動</value>
+					</Data>
+				</ExtendedData>
+				<address>G/F, 25, Tong Mi Road, Mong Kok, Kowloon, Hong Kong</address>
+			</Placemark>
+			<Placemark>
+				<name>Sally Coco Intimate Lifestyle Store</name>
+				<description><![CDATA[Facebook / Website: http://www.sallystoy.com<br>地址: 香港銅鑼灣富明街 1-5 號寶富大樓 3 樓 B 室<br>聯絡電話: 31757408<br>分類: 人生大事]]></description>
+				<styleUrl>#icon-960-F9F7A6</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.sallystoy.com</value>
+					</Data>
+					<Data name='地址'>
+						<value>香港銅鑼灣富明街 1-5 號寶富大樓 3 樓 B 室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>31757408</value>
+					</Data>
+					<Data name='分類'>
+						<value>人生大事</value>
+					</Data>
+				</ExtendedData>
+				<address>香港銅鑼灣富明街 1-5 號寶富大樓 3 樓 B 室</address>
+			</Placemark>
+			<Placemark>
+				<name>8ight Pro Studio</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/8ightProStudio/<br>地址: H6, 11/F, East Sun Industrial Centre, 16, Shing Yip Streed, Kwun Tong, Kowloon, Hong Kong<br>聯絡電話: 34834864<br>分類: 廣告服務]]></description>
+				<styleUrl>#icon-960-795046</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/8ightProStudio/</value>
+					</Data>
+					<Data name='地址'>
+						<value>H6, 11/F, East Sun Industrial Centre, 16, Shing Yip Streed, Kwun Tong, Kowloon, Hong Kong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>34834864</value>
+					</Data>
+					<Data name='分類'>
+						<value>廣告服務</value>
+					</Data>
+				</ExtendedData>
+				<address>H6, 11/F, East Sun Industrial Centre, 16, Shing Yip Streed, Kwun Tong, Kowloon, Hong Kong</address>
+			</Placemark>
+			<Placemark>
+				<name>Mypreservedflowers</name>
+				<description><![CDATA[Facebook / Website: www.facebook.com/mypreservedflowers/<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.facebook.com/mypreservedflowers/</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>The Yard</name>
+				<description><![CDATA[Facebook / Website: http://www.theyard.com.hk<br>地址: 九龍新蒲崗五芳街 31 - 33 號永顯工廠大廈 8 樓 D 室<br>聯絡電話: 92299875<br>分類: 音樂及藝術]]></description>
+				<styleUrl>#icon-960-C6A4CF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.theyard.com.hk</value>
+					</Data>
+					<Data name='地址'>
+						<value>九龍新蒲崗五芳街 31 - 33 號永顯工廠大廈 8 樓 D 室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>92299875</value>
+					</Data>
+					<Data name='分類'>
+						<value>音樂及藝術</value>
+					</Data>
+				</ExtendedData>
+				<address>九龍新蒲崗五芳街 31 - 33 號永顯工廠大廈 8 樓 D 室</address>
+			</Placemark>
+			<Placemark>
+				<name>Hey Pantry Cafe  </name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/heypantry<br>地址: Unit 1307, Phase 1, Chai Wan Ind. City, 60 Wing Tai Rd., Chai Wan, Hong Kong<br>聯絡電話: 35291920<br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/heypantry</value>
+					</Data>
+					<Data name='地址'>
+						<value>Unit 1307, Phase 1, Chai Wan Ind. City, 60 Wing Tai Rd., Chai Wan, Hong Kong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>35291920</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>Unit 1307, Phase 1, Chai Wan Ind. City, 60 Wing Tai Rd., Chai Wan, Hong Kong</address>
+			</Placemark>
+			<Placemark>
+				<name>APEX SERVICES LTD.</name>
+				<description><![CDATA[Facebook / Website: http://www.apexs.com.hk/<br>地址: Suite 803, 8F, Westlands Centre, 20 Westlands Road, Hong Kong<br>聯絡電話: 31052183<br>分類: 廣告服務]]></description>
+				<styleUrl>#icon-960-795046</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.apexs.com.hk/</value>
+					</Data>
+					<Data name='地址'>
+						<value>Suite 803, 8F, Westlands Centre, 20 Westlands Road, Hong Kong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>31052183</value>
+					</Data>
+					<Data name='分類'>
+						<value>廣告服務</value>
+					</Data>
+				</ExtendedData>
+				<address>Suite 803, 8F, Westlands Centre, 20 Westlands Road, Hong Kong</address>
+			</Placemark>
+			<Placemark>
+				<name>詠雛昇粵劇團</name>
+				<description><![CDATA[Facebook / Website: www.facebook.com/risingtalenthk<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 音樂及藝術]]></description>
+				<styleUrl>#icon-960-C6A4CF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.facebook.com/risingtalenthk</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>音樂及藝術</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>Shiu Fung Engineering Services Com Ltd</name>
+				<description><![CDATA[Facebook / Website: http://shiufung.com.hk/<br>地址: 筲箕灣道19號地下<br>聯絡電話: 2567 9880<br>分類: 室內設計/裝修]]></description>
+				<styleUrl>#icon-960-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://shiufung.com.hk/</value>
+					</Data>
+					<Data name='地址'>
+						<value>筲箕灣道19號地下</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2567 9880</value>
+					</Data>
+					<Data name='分類'>
+						<value>室內設計/裝修</value>
+					</Data>
+				</ExtendedData>
+				<address>筲箕灣道19號地下</address>
+			</Placemark>
+			<Placemark>
+				<name>Draword-畫字</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/Draword<br>地址: 香港九龍油麻地<br>聯絡電話: <br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/Draword</value>
+					</Data>
+					<Data name='地址'>
+						<value>香港九龍油麻地</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>香港九龍油麻地</address>
+			</Placemark>
+			<Placemark>
+				<name>Yoga Club HK 瑜心舍</name>
+				<description><![CDATA[Facebook / Website: http://www.yogaclubhk.com/mob/<br>地址: 尖沙咀加連威老道12-14號 加連威大廈3樓14室前座<br>聯絡電話: 3702 8980<br>分類: 運動]]></description>
+				<styleUrl>#icon-960-A61B4A</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.yogaclubhk.com/mob/</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀加連威老道12-14號 加連威大廈3樓14室前座</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>3702 8980</value>
+					</Data>
+					<Data name='分類'>
+						<value>運動</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀加連威老道12-14號 加連威大廈3樓14室前座</address>
+			</Placemark>
+			<Placemark>
+				<name>INDRA COMPANY LTD </name>
+				<description><![CDATA[Facebook / Website: www.indra.com.hk<br>地址: Unit 823, 8/F, New City Center, 2 Lei Yue Mun Road, Kwun Tong<br>聯絡電話: 36980874<br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.indra.com.hk</value>
+					</Data>
+					<Data name='地址'>
+						<value>Unit 823, 8/F, New City Center, 2 Lei Yue Mun Road, Kwun Tong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>36980874</value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>Unit 823, 8/F, New City Center, 2 Lei Yue Mun Road, Kwun Tong</address>
+			</Placemark>
+			<Placemark>
+				<name>Action Fitness </name>
+				<description><![CDATA[Facebook / Website: http://actionfitnesshk.wix.com/home<br>地址: 2/F, 14A1, Po Tung Road, Sai Kung<br>聯絡電話: 96463676<br>分類: 運動]]></description>
+				<styleUrl>#icon-960-A61B4A</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://actionfitnesshk.wix.com/home</value>
+					</Data>
+					<Data name='地址'>
+						<value>2/F, 14A1, Po Tung Road, Sai Kung</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>96463676</value>
+					</Data>
+					<Data name='分類'>
+						<value>運動</value>
+					</Data>
+				</ExtendedData>
+				<address>2/F, 14A1, Po Tung Road, Sai Kung</address>
+			</Placemark>
+			<Placemark>
+				<name>Blooming Buds Handmade</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/Blooming-Buds-Handmade-187627714911296/?fref=ts<br>地址: 尖沙咀天星碼頭<br>聯絡電話: 93268604<br>分類: 服裝及配飾]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/Blooming-Buds-Handmade-187627714911296/?fref=ts</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>93268604</value>
+					</Data>
+					<Data name='分類'>
+						<value>服裝及配飾</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>Foodbulous</name>
+				<description><![CDATA[Facebook / Website: https://foodbulous.com/tc/<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 廣告服務]]></description>
+				<styleUrl>#icon-960-795046</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://foodbulous.com/tc/</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>廣告服務</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>森.活製作室</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/wood3.life/?fref=ts<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/wood3.life/?fref=ts</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>Blanclub</name>
+				<description><![CDATA[Facebook / Website: http://www.hkblanclub.com/<br>地址: 九龍旺角彌敦道720-722號家樂樓8樓02室<br>聯絡電話: 2348 1700<br>分類: 醫療]]></description>
+				<styleUrl>#icon-960-B29189</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.hkblanclub.com/</value>
+					</Data>
+					<Data name='地址'>
+						<value>九龍旺角彌敦道720-722號家樂樓8樓02室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2348 1700</value>
+					</Data>
+					<Data name='分類'>
+						<value>醫療</value>
+					</Data>
+				</ExtendedData>
+				<address>九龍旺角彌敦道720-722號家樂樓8樓02室</address>
+			</Placemark>
+			<Placemark>
+				<name>Juicy Peach</name>
+				<description><![CDATA[Facebook / Website: www.hkjuicypeach.com<br>地址: 尖沙咀麼地道63號好時中心G9<br>聯絡電話: 3580 1277<br>分類: 其他]]></description>
+				<styleUrl>#icon-960-7CCFA9</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.hkjuicypeach.com</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀麼地道63號好時中心G9</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>3580 1277</value>
+					</Data>
+					<Data name='分類'>
+						<value>其他</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀麼地道63號好時中心G9</address>
+			</Placemark>
+			<Placemark>
+				<name>一泡而紅泡飯專家</name>
+				<description><![CDATA[Facebook / Website: www.facebook.com/yummyricensoup<br>地址: 葵芳葵富路7-11號葵涌廣場3樓<br>聯絡電話: 2422 6000<br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.facebook.com/yummyricensoup</value>
+					</Data>
+					<Data name='地址'>
+						<value>葵芳葵富路7-11號葵涌廣場3樓</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2422 6000</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>葵芳葵富路7-11號葵涌廣場3樓</address>
+			</Placemark>
+			<Placemark>
+				<name>鄧媽媽過橋水餃</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/tangmamadumplings/<br>地址: C41, 2/F, KWAI CHUNG PLAZA, Kwai Chung<br>聯絡電話: 2422 6000<br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/tangmamadumplings/</value>
+					</Data>
+					<Data name='地址'>
+						<value>C41, 2/F, KWAI CHUNG PLAZA, Kwai Chung</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2422 6000</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>C41, 2/F, KWAI CHUNG PLAZA, Kwai Chung</address>
+			</Placemark>
+			<Placemark>
+				<name>Newzpire 記本事</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/%E6%92%BC%E5%8B%95Impact-538844359600643/?fref=nf<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 傳媒]]></description>
+				<styleUrl>#icon-960-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/%E6%92%BC%E5%8B%95Impact-538844359600643/?fref=nf</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>傳媒</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>君臨會計師事務所有限公司</name>
+				<description><![CDATA[Facebook / Website: http://www.grandeurcpa.com/<br>地址: Room 2105, 21/F., Office Tower, Langham Place, 8 Argyle Street, Mongkok, Kowloon, Hong Kong<br>聯絡電話: 3187 7037<br>分類: 專業服務]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.grandeurcpa.com/</value>
+					</Data>
+					<Data name='地址'>
+						<value>Room 2105, 21/F., Office Tower, Langham Place, 8 Argyle Street, Mongkok, Kowloon, Hong Kong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>3187 7037</value>
+					</Data>
+					<Data name='分類'>
+						<value>專業服務</value>
+					</Data>
+				</ExtendedData>
+				<address>Room 2105, 21/F., Office Tower, Langham Place, 8 Argyle Street, Mongkok, Kowloon, Hong Kong</address>
+			</Placemark>
+			<Placemark>
+				<name>Bubbleair.hk</name>
+				<description><![CDATA[Facebook / Website: www.facebook.com/bubbleairhk<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 消閒]]></description>
+				<styleUrl>#icon-960-CDDC39</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.facebook.com/bubbleairhk</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>消閒</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>SALON STUDIO</name>
+				<description><![CDATA[Facebook / Website: http://www.facebook.com/SalonStudioSalon<br>地址: 尖沙咀堪富利士道4號堪富利廣場17/F<br>聯絡電話: 2722 4588<br>分類: 個人護理]]></description>
+				<styleUrl>#icon-960-0BA9CC</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.facebook.com/SalonStudioSalon</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀堪富利士道4號堪富利廣場17/F</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2722 4588</value>
+					</Data>
+					<Data name='分類'>
+						<value>個人護理</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀堪富利士道4號堪富利廣場17/F</address>
+			</Placemark>
+			<Placemark>
+				<name>Revocal</name>
+				<description><![CDATA[Facebook / Website: www.revocal.com<br>地址: 上海市徐匯區襄陽南路近永康路<br>聯絡電話: <br>分類: 音樂及藝術]]></description>
+				<styleUrl>#icon-960-C6A4CF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.revocal.com</value>
+					</Data>
+					<Data name='地址'>
+						<value>上海市徐匯區襄陽南路近永康路</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>音樂及藝術</value>
+					</Data>
+				</ExtendedData>
+				<address>上海市徐匯區襄陽南路近永康路</address>
+			</Placemark>
+			<Placemark>
+				<name>Mikawa (International) Design and Contracting Ltd</name>
+				<description><![CDATA[Facebook / Website: http://www.mikawaint.com/<br>地址: 九龍灣宏開道19號健力工業大廈9樓911室<br>聯絡電話: 34171217<br>分類: 室內設計/裝修]]></description>
+				<styleUrl>#icon-960-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.mikawaint.com/</value>
+					</Data>
+					<Data name='地址'>
+						<value>九龍灣宏開道19號健力工業大廈9樓911室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>34171217</value>
+					</Data>
+					<Data name='分類'>
+						<value>室內設計/裝修</value>
+					</Data>
+				</ExtendedData>
+				<address>九龍灣宏開道19號健力工業大廈9樓911室</address>
+			</Placemark>
+			<Placemark>
+				<name>NaJo hair</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/najohair/<br>地址: Shop 225, 2/F Cheung Sha Wan Plaza, Kowloon<br>聯絡電話: 3709 8033<br>分類: 個人護理]]></description>
+				<styleUrl>#icon-960-0BA9CC</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/najohair/</value>
+					</Data>
+					<Data name='地址'>
+						<value>Shop 225, 2/F Cheung Sha Wan Plaza, Kowloon</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>3709 8033</value>
+					</Data>
+					<Data name='分類'>
+						<value>個人護理</value>
+					</Data>
+				</ExtendedData>
+				<address>Shop 225, 2/F Cheung Sha Wan Plaza, Kowloon</address>
+			</Placemark>
+			<Placemark>
+				<name>小豬爸爸手作屋</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/littlepigbabahouse<br>地址: 尖沙咀天星碼頭<br>聯絡電話: 61370720<br>分類: 服裝及配飾]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/littlepigbabahouse</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>61370720</value>
+					</Data>
+					<Data name='分類'>
+						<value>服裝及配飾</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name> Boucle韓國時裝</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/boucle.hk<br>地址: 葵涌廣場3樓 時尚坊62號<br>聯絡電話: 34269386<br>分類: 服裝及配飾]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/boucle.hk</value>
+					</Data>
+					<Data name='地址'>
+						<value>葵涌廣場3樓 時尚坊62號</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>34269386</value>
+					</Data>
+					<Data name='分類'>
+						<value>服裝及配飾</value>
+					</Data>
+				</ExtendedData>
+				<address>葵涌廣場3樓 時尚坊62號</address>
+			</Placemark>
+			<Placemark>
+				<name>AppCoda Limited</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/appcodamobile<br>地址: 尖沙咀天星碼頭<br>聯絡電話: 31704000<br>分類: 其他]]></description>
+				<styleUrl>#icon-960-7CCFA9</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/appcodamobile</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>31704000</value>
+					</Data>
+					<Data name='分類'>
+						<value>其他</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>Birdy House</name>
+				<description><![CDATA[Facebook / Website: www.birdyhousehk.com<br>地址: 九龍新蒲崗六合街23號萬昌中心6樓05室<br>聯絡電話: 98142855<br>分類: 寵物護理]]></description>
+				<styleUrl>#icon-960-F8971B</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.birdyhousehk.com</value>
+					</Data>
+					<Data name='地址'>
+						<value>九龍新蒲崗六合街23號萬昌中心6樓05室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>98142855</value>
+					</Data>
+					<Data name='分類'>
+						<value>寵物護理</value>
+					</Data>
+				</ExtendedData>
+				<address>九龍新蒲崗六合街23號萬昌中心6樓05室</address>
+			</Placemark>
+			<Placemark>
+				<name>Neos Group Limited</name>
+				<description><![CDATA[Facebook / Website: http://www.neos-gp.com.hk/<br>地址: Blk B, 8/F , China Fen Hin Building, 5 Cheung Yue Street, Cheung Sha Wan<br>聯絡電話: 5564 5692<br>分類: 專業服務]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.neos-gp.com.hk/</value>
+					</Data>
+					<Data name='地址'>
+						<value>Blk B, 8/F , China Fen Hin Building, 5 Cheung Yue Street, Cheung Sha Wan</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>5564 5692</value>
+					</Data>
+					<Data name='分類'>
+						<value>專業服務</value>
+					</Data>
+				</ExtendedData>
+				<address>Blk B, 8/F , China Fen Hin Building, 5 Cheung Yue Street, Cheung Sha Wan</address>
+			</Placemark>
+			<Placemark>
+				<name>宏發顏料油漆</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/wangfatpaintsshop/<br>地址: 太子廣東道1180號地下<br>聯絡電話: 旺角: 2393 1983<br>分類: 室內設計/裝修]]></description>
+				<styleUrl>#icon-960-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/wangfatpaintsshop/</value>
+					</Data>
+					<Data name='地址'>
+						<value>太子廣東道1180號地下</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>旺角: 2393 1983</value>
+					</Data>
+					<Data name='分類'>
+						<value>室內設計/裝修</value>
+					</Data>
+				</ExtendedData>
+				<address>太子廣東道1180號地下</address>
+			</Placemark>
+			<Placemark>
+				<name>手創(Craftland Bookazine)</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/craftlandbookazine/<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 傳媒]]></description>
+				<styleUrl>#icon-960-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/craftlandbookazine/</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>傳媒</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>full scale &amp; partners (HK) Ltd.</name>
+				<description><![CDATA[Facebook / Website: http://www.fullscale.hk/<br>地址: 尖沙咀天星碼頭<br>聯絡電話: <br>分類: 廣告服務]]></description>
+				<styleUrl>#icon-960-795046</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.fullscale.hk/</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>廣告服務</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>Blue Bird Wedding Gallery</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/bluebirdwedding/<br>地址: 葵芳大連排道172-180號 金龍工業中心4期2樓H室<br>聯絡電話: 9160 0817<br>分類: 人生大事]]></description>
+				<styleUrl>#icon-960-F9F7A6</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/bluebirdwedding/</value>
+					</Data>
+					<Data name='地址'>
+						<value>葵芳大連排道172-180號 金龍工業中心4期2樓H室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>9160 0817</value>
+					</Data>
+					<Data name='分類'>
+						<value>人生大事</value>
+					</Data>
+				</ExtendedData>
+				<address>葵芳大連排道172-180號 金龍工業中心4期2樓H室</address>
+			</Placemark>
+			<Placemark>
+				<name>旺角安安燒</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/ononbbq/<br>地址: 旺角染布房街6號地舖<br>聯絡電話: 2617 2220<br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/ononbbq/</value>
+					</Data>
+					<Data name='地址'>
+						<value>旺角染布房街6號地舖</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2617 2220</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>旺角染布房街6號地舖</address>
+			</Placemark>
+			<Placemark>
+				<name>旺角WOFT餐廳</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/wofttapasbar<br>地址: 旺角染布房街7-8D地下<br>聯絡電話: 2116 1786<br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/wofttapasbar</value>
+					</Data>
+					<Data name='地址'>
+						<value>旺角染布房街7-8D地下</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2116 1786</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>旺角染布房街7-8D地下</address>
+			</Placemark>
+			<Placemark>
+				<name>素學 NiceVeg</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/niceveg<br>地址: 尖沙咀天星碼頭<br>聯絡電話: 6099 1189<br>分類: 傳媒]]></description>
+				<styleUrl>#icon-960-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/niceveg</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>6099 1189</value>
+					</Data>
+					<Data name='分類'>
+						<value>傳媒</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>Mealthy Food Co Ltd.</name>
+				<description><![CDATA[Facebook / Website: www.mealthy.com.hk<br>地址: 尖沙咀天星碼頭<br>聯絡電話: 95657765<br>分類: 柴米油鹽]]></description>
+				<styleUrl>#icon-960-93D7E8</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.mealthy.com.hk</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀天星碼頭</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>95657765</value>
+					</Data>
+					<Data name='分類'>
+						<value>柴米油鹽</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀天星碼頭</address>
+			</Placemark>
+			<Placemark>
+				<name>花蓮元氣屋民宿</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/yuanqiwu280/<br>地址: 花蓮縣壽豐鄉平和村大學路2段63巷55-3號<br>聯絡電話: +886963381639<br>分類: 台灣地區]]></description>
+				<styleUrl>#icon-960-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/yuanqiwu280/</value>
+					</Data>
+					<Data name='地址'>
+						<value>花蓮縣壽豐鄉平和村大學路2段63巷55-3號</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>+886963381639</value>
+					</Data>
+					<Data name='分類'>
+						<value>台灣地區</value>
+					</Data>
+				</ExtendedData>
+				<address>花蓮縣壽豐鄉平和村大學路2段63巷55-3號</address>
+			</Placemark>
+			<Placemark>
+				<name>新業工程公司</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/sunyipengineeringco<br>地址: 旺角塘尾道66-68號福強工業大廈A座7/F 6室<br>聯絡電話: 23932558<br>分類: 專業服務]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/sunyipengineeringco</value>
+					</Data>
+					<Data name='地址'>
+						<value>旺角塘尾道66-68號福強工業大廈A座7/F 6室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>23932558</value>
+					</Data>
+					<Data name='分類'>
+						<value>專業服務</value>
+					</Data>
+				</ExtendedData>
+				<address>旺角塘尾道66-68號福強工業大廈A座7/F 6室</address>
+			</Placemark>
+			<Placemark>
+				<name>T.C.W Studio</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/TCW-Studio-129995787089735/?fref=nf<br>地址: 新蒲崗五芳街23-25號緯綸工業大廈5樓503室<br>聯絡電話: 61795457<br>分類: 專業服務]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/TCW-Studio-129995787089735/?fref=nf</value>
+					</Data>
+					<Data name='地址'>
+						<value>新蒲崗五芳街23-25號緯綸工業大廈5樓503室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>61795457</value>
+					</Data>
+					<Data name='分類'>
+						<value>專業服務</value>
+					</Data>
+				</ExtendedData>
+				<address>新蒲崗五芳街23-25號緯綸工業大廈5樓503室</address>
+			</Placemark>
+			<Placemark>
+				<name>美意珠寶</name>
+				<description><![CDATA[Facebook / Website: http://mei2jewellery.com/<br>地址: 觀塘開源道 62 號駱駝漆大廈第一座 7 字樓 A5 室<br>聯絡電話: 23897177<br>分類: 服裝及配飾]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://mei2jewellery.com/</value>
+					</Data>
+					<Data name='地址'>
+						<value>觀塘開源道 62 號駱駝漆大廈第一座 7 字樓 A5 室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>23897177</value>
+					</Data>
+					<Data name='分類'>
+						<value>服裝及配飾</value>
+					</Data>
+				</ExtendedData>
+				<address>觀塘開源道 62 號駱駝漆大廈第一座 7 字樓 A5 室</address>
+			</Placemark>
+			<Placemark>
+				<name>其奧 - 花生糖專門店</name>
+				<description><![CDATA[Facebook / Website: http://www.openrice.com/zh/hongkong/r-%E5%85%B6%E5%A5%A7-%E5%85%83%E6%9C%97-%E6%B8%AF%E5%BC%8F-r23405<br>地址: 元朗大馬路36號<br>聯絡電話: 2479 8951<br>分類: 柴米油鹽]]></description>
+				<styleUrl>#icon-960-93D7E8</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.openrice.com/zh/hongkong/r-%E5%85%B6%E5%A5%A7-%E5%85%83%E6%9C%97-%E6%B8%AF%E5%BC%8F-r23405</value>
+					</Data>
+					<Data name='地址'>
+						<value>元朗大馬路36號</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2479 8951</value>
+					</Data>
+					<Data name='分類'>
+						<value>柴米油鹽</value>
+					</Data>
+				</ExtendedData>
+				<address>元朗大馬路36號</address>
+			</Placemark>
+			<Placemark>
+				<name>Mi Ming Mart </name>
+				<description><![CDATA[Facebook / Website: http://www.mimingmart.com/<br>地址: Room 1622, 16/F, Leighton Centre, 77 Leighton Road, Causeway Bay, Hong Kong<br><br>聯絡電話: 28951800<br>分類: 個人護理]]></description>
+				<styleUrl>#icon-960-0BA9CC</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.mimingmart.com/</value>
+					</Data>
+					<Data name='地址'>
+						<value>Room 1622, 16/F, Leighton Centre, 77 Leighton Road, Causeway Bay, Hong Kong
+</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>28951800</value>
+					</Data>
+					<Data name='分類'>
+						<value>個人護理</value>
+					</Data>
+				</ExtendedData>
+				<address>Room 1622, 16/F, Leighton Centre, 77 Leighton Road, Causeway Bay, Hong Kong</address>
+			</Placemark>
+			<Placemark>
+				<name>H&amp;M Int'l (HK) Co. Ltd</name>
+				<description><![CDATA[Facebook / Website: <br>地址: <br>聯絡電話: <br>分類: ]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value></value>
+					</Data>
+					<Data name='地址'>
+						<value></value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>114.1109133,22.304979,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Purier HK</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/purierhk/<br>地址: <br>聯絡電話: 98081077/90729828<br>分類: 個人護理]]></description>
+				<styleUrl>#icon-960-0BA9CC</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/purierhk/</value>
+					</Data>
+					<Data name='地址'>
+						<value></value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>98081077/90729828</value>
+					</Data>
+					<Data name='分類'>
+						<value>個人護理</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>114.1304398,22.308473,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>People Power </name>
+				<description><![CDATA[Facebook / Website: www.peoplepowerhk.com/<br>地址: 香港中區立法會道1號立法會綜合大樓1003室<br><br>聯絡電話: <br>分類: 其他]]></description>
+				<styleUrl>#icon-960-7CCFA9</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.peoplepowerhk.com/</value>
+					</Data>
+					<Data name='地址'>
+						<value>香港中區立法會道1號立法會綜合大樓1003室
+</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>其他</value>
+					</Data>
+				</ExtendedData>
+				<address>香港中區立法會道1號立法會綜合大樓1003室</address>
+			</Placemark>
+			<Placemark>
+				<name>Equal Technology Hong Kong Ltd</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/equaltech.hk/<br>地址: Unit 2206-7 22/F New Treasure Centre, No. 10 Ng Fong Street, Sanpokong, Kowloon, HK.San Po Kong<br>聯絡電話: 2497 0006<br>分類: 專業服務]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/equaltech.hk/</value>
+					</Data>
+					<Data name='地址'>
+						<value>Unit 2206-7 22/F New Treasure Centre, No. 10 Ng Fong Street, Sanpokong, Kowloon, HK.San Po Kong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2497 0006</value>
+					</Data>
+					<Data name='分類'>
+						<value>專業服務</value>
+					</Data>
+				</ExtendedData>
+				<address>Unit 2206-7 22/F New Treasure Centre, No. 10 Ng Fong Street, Sanpokong, Kowloon, HK.San Po Kong</address>
+			</Placemark>
+			<Placemark>
+				<name>Group Buyer</name>
+				<description><![CDATA[Facebook / Website: www.groupbuyer.com.hk<br>地址: 尖沙咀梳士巴利道3號星光行533-35室<br>聯絡電話: 2409 2838<br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.groupbuyer.com.hk</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖沙咀梳士巴利道3號星光行533-35室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2409 2838</value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>尖沙咀梳士巴利道3號星光行533-35室</address>
+			</Placemark>
+			<Placemark>
+				<name>1/1 Leather Workshop</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/1of1leatherworkshop<br>地址: 九龍 觀塘 駿業里 業運工業大廈 2樓 2D1室<br>聯絡電話: 9360 5060<br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/1of1leatherworkshop</value>
+					</Data>
+					<Data name='地址'>
+						<value>九龍 觀塘 駿業里 業運工業大廈 2樓 2D1室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>9360 5060</value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>九龍 觀塘 駿業里 業運工業大廈 2樓 2D1室</address>
+			</Placemark>
+			<Placemark>
+				<name>Secret Tour Hong Kong</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/secrettourhk/<br>地址: Flat A, 7/F, Lok's Industrial Building, 204 Tsat Tsz Mui RoadHong Kong<br>聯絡電話: 2831 1161<br>分類: 廣告服務]]></description>
+				<styleUrl>#icon-960-795046</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/secrettourhk/</value>
+					</Data>
+					<Data name='地址'>
+						<value>Flat A, 7/F, Lok's Industrial Building, 204 Tsat Tsz Mui RoadHong Kong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2831 1161</value>
+					</Data>
+					<Data name='分類'>
+						<value>廣告服務</value>
+					</Data>
+				</ExtendedData>
+				<address>Flat A, 7/F, Lok's Industrial Building, 204 Tsat Tsz Mui RoadHong Kong</address>
+			</Placemark>
+			<Placemark>
+				<name>《文禮》Menclave homme</name>
+				<description><![CDATA[Facebook / Website: www.facebook.com/menclavehk<br>地址: Room 1443-1446, 14/F, Eton Tower, 8 Hysan RoadCauseway Bay<br>聯絡電話: 6651 1540<br>分類: 服裝及配飾]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.facebook.com/menclavehk</value>
+					</Data>
+					<Data name='地址'>
+						<value>Room 1443-1446, 14/F, Eton Tower, 8 Hysan RoadCauseway Bay</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>6651 1540</value>
+					</Data>
+					<Data name='分類'>
+						<value>服裝及配飾</value>
+					</Data>
+				</ExtendedData>
+				<address>Room 1443-1446, 14/F, Eton Tower, 8 Hysan RoadCauseway Bay</address>
+			</Placemark>
+			<Placemark>
+				<name>VY By SucoQ </name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/SucoqLimited<br>地址: Rm 920, New Commerce Centre, On Sum Street,Sha Tin<br>聯絡電話: 3956 3316<br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/SucoqLimited</value>
+					</Data>
+					<Data name='地址'>
+						<value>Rm 920, New Commerce Centre, On Sum Street,Sha Tin</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>3956 3316</value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>Rm 920, New Commerce Centre, On Sum Street,Sha Tin</address>
+			</Placemark>
+			<Placemark>
+				<name>Urban Spring Co., Ltd.</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/urbanspring.hk/<br>地址: 21/F Chun Wo Commercial Center, 23-29 Wing Wo Street,Central District<br>聯絡電話: 3188 8072<br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/urbanspring.hk/</value>
+					</Data>
+					<Data name='地址'>
+						<value>21/F Chun Wo Commercial Center, 23-29 Wing Wo Street,Central District</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>3188 8072</value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>21/F Chun Wo Commercial Center, 23-29 Wing Wo Street,Central District</address>
+			</Placemark>
+			<Placemark>
+				<name>Kadoorie Barkery </name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/Kadoorie-Bakery-273049983067695/<br>地址: 佐敦渡船角文苑街1-23號文英樓地下1號<br>聯絡電話: 26828019/92734585/62978889<br>分類: 柴米油鹽]]></description>
+				<styleUrl>#icon-960-93D7E8</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/Kadoorie-Bakery-273049983067695/</value>
+					</Data>
+					<Data name='地址'>
+						<value>佐敦渡船角文苑街1-23號文英樓地下1號</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>26828019/92734585/62978889</value>
+					</Data>
+					<Data name='分類'>
+						<value>柴米油鹽</value>
+					</Data>
+				</ExtendedData>
+				<address>佐敦渡船角文苑街1-23號文英樓地下1號</address>
+			</Placemark>
+			<Placemark>
+				<name>心燒食堂</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/SumSiuBarNGrill<br>地址: 銅鑼灣駱克道487號駱克駅22-23樓<br><br>聯絡電話: 2383 8686<br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/SumSiuBarNGrill</value>
+					</Data>
+					<Data name='地址'>
+						<value>銅鑼灣駱克道487號駱克駅22-23樓
+</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2383 8686</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>銅鑼灣駱克道487號駱克駅22-23樓</address>
+			</Placemark>
+			<Placemark>
+				<name>珍心素食</name>
+				<description><![CDATA[Facebook / Website: <br>地址: 旺角砵蘭街124-128號砵崙樓地下B舖<br>聯絡電話: 2781 2987<br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value></value>
+					</Data>
+					<Data name='地址'>
+						<value>旺角砵蘭街124-128號砵崙樓地下B舖</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2781 2987</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>旺角砵蘭街124-128號砵崙樓地下B舖</address>
+			</Placemark>
+			<Placemark>
+				<name>Wilfred Catering Ltd.</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/wilfredcatering<br>地址: Harbour Industrial Centre, 10 Lee Hing Street, Ap Lei Chau<br>聯絡電話: 2870 0535<br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/wilfredcatering</value>
+					</Data>
+					<Data name='地址'>
+						<value>Harbour Industrial Centre, 10 Lee Hing Street, Ap Lei Chau</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2870 0535</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>Harbour Industrial Centre, 10 Lee Hing Street, Ap Lei Chau</address>
+			</Placemark>
+			<Placemark>
+				<name>Lockhart Bar and Restaurant</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/lockhart.hk/<br>地址: 銅鑼灣駱克道498號合亞廣場4樓<br>聯絡電話: 67306236<br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/lockhart.hk/</value>
+					</Data>
+					<Data name='地址'>
+						<value>銅鑼灣駱克道498號合亞廣場4樓</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>67306236</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>銅鑼灣駱克道498號合亞廣場4樓</address>
+			</Placemark>
+			<Placemark>
+				<name>PURE - Start From Natural</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/www.purestartfromnatural.com.hk/<br>地址: 九龍觀塘工業中心第3期4樓P室4<br>聯絡電話: 28662660<br>分類: 個人護理]]></description>
+				<styleUrl>#icon-960-0BA9CC</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/www.purestartfromnatural.com.hk/</value>
+					</Data>
+					<Data name='地址'>
+						<value>九龍觀塘工業中心第3期4樓P室4</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>28662660</value>
+					</Data>
+					<Data name='分類'>
+						<value>個人護理</value>
+					</Data>
+				</ExtendedData>
+				<address>九龍觀塘工業中心第3期4樓P室4</address>
+			</Placemark>
+			<Placemark>
+				<name>珈瑀空手道</name>
+				<description><![CDATA[Facebook / Website: http://karatedokayu.wix.com/karate<br>地址: <br>聯絡電話: 9499 9577<br>分類: 運動]]></description>
+				<styleUrl>#icon-960-A61B4A</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://karatedokayu.wix.com/karate</value>
+					</Data>
+					<Data name='地址'>
+						<value></value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>9499 9577</value>
+					</Data>
+					<Data name='分類'>
+						<value>運動</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>114.1273069,22.2954894,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Broccoli Photo</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/broccoliphoto/<br>地址: <br>聯絡電話: <br>分類: 專業服務]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/broccoliphoto/</value>
+					</Data>
+					<Data name='地址'>
+						<value></value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>專業服務</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>114.1046906,22.3097435,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>la petite bout:que</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/petitepetiteboutique/<br>地址: <br>聯絡電話: <br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/petitepetiteboutique/</value>
+					</Data>
+					<Data name='地址'>
+						<value></value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>114.1101408,22.3015644,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TOMORROW COMMUNICATIONS</name>
+				<description><![CDATA[Facebook / Website: http://www.facebook.com/tomorrowcreativehk<br>地址: Unit C, 10/F, Trust Tower, 68 Johnston Road, Wanchai, HK<br>聯絡電話: 92194204<br>分類: 廣告服務]]></description>
+				<styleUrl>#icon-960-795046</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.facebook.com/tomorrowcreativehk</value>
+					</Data>
+					<Data name='地址'>
+						<value>Unit C, 10/F, Trust Tower, 68 Johnston Road, Wanchai, HK</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>92194204</value>
+					</Data>
+					<Data name='分類'>
+						<value>廣告服務</value>
+					</Data>
+				</ExtendedData>
+				<address>Unit C, 10/F, Trust Tower, 68 Johnston Road, Wanchai, HK</address>
+			</Placemark>
+			<Placemark>
+				<name>香港催眠及身心靈整合中心</name>
+				<description><![CDATA[Facebook / Website: www.facebook.com/hypnohealinghk<br>地址: 香港九龍觀塘海濱道135號宏基資本大廈8字樓813室<br>聯絡電話: 9876 4670<br>分類: 醫療]]></description>
+				<styleUrl>#icon-960-B29189</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.facebook.com/hypnohealinghk</value>
+					</Data>
+					<Data name='地址'>
+						<value>香港九龍觀塘海濱道135號宏基資本大廈8字樓813室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>9876 4670</value>
+					</Data>
+					<Data name='分類'>
+						<value>醫療</value>
+					</Data>
+				</ExtendedData>
+				<address>香港九龍觀塘海濱道135號宏基資本大廈8字樓813室</address>
+			</Placemark>
+			<Placemark>
+				<name>Pop Select</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/popselect<br>地址: 葵涌廣場3樓時尚坊56號<br>聯絡電話: 6117 8773<br>分類: 服裝及配飾]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/popselect</value>
+					</Data>
+					<Data name='地址'>
+						<value>葵涌廣場3樓時尚坊56號</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>6117 8773</value>
+					</Data>
+					<Data name='分類'>
+						<value>服裝及配飾</value>
+					</Data>
+				</ExtendedData>
+				<address>葵涌廣場3樓時尚坊56號</address>
+			</Placemark>
+			<Placemark>
+				<name>Apex Business Solution Co.Ltd</name>
+				<description><![CDATA[Facebook / Website: www.apexbusiness.com.hk<br>地址: Room 2001, 20/F, Mongkok Commerical Centre, 16 Argyle Street, Mongkok, Kowlon, Hong Kong<br>聯絡電話: 9867 3341<br>分類: 專業服務]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.apexbusiness.com.hk</value>
+					</Data>
+					<Data name='地址'>
+						<value>Room 2001, 20/F, Mongkok Commerical Centre, 16 Argyle Street, Mongkok, Kowlon, Hong Kong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>9867 3341</value>
+					</Data>
+					<Data name='分類'>
+						<value>專業服務</value>
+					</Data>
+				</ExtendedData>
+				<address>Room 2001, 20/F, Mongkok Commerical Centre, 16 Argyle Street, Mongkok, Kowlon, Hong Kong</address>
+			</Placemark>
+			<Placemark>
+				<name>渣哥一九九六</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/JarGor1996/<br>地址: 香港銅鑼灣渣甸街30號B舖地下<br>聯絡電話: 21918848<br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/JarGor1996/</value>
+					</Data>
+					<Data name='地址'>
+						<value>香港銅鑼灣渣甸街30號B舖地下</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>21918848</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>香港銅鑼灣渣甸街30號B舖地下</address>
+			</Placemark>
+			<Placemark>
+				<name>MOTHER Outdoor Lifestyle Store</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/Mother.OutdoorLifestyle<br>地址: Shop1721,17/F,610 Nathan Road,Hollywood Plaza,Mongkok, Kowloon<br>聯絡電話: 2780 0238<br>分類: 服裝及配飾]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/Mother.OutdoorLifestyle</value>
+					</Data>
+					<Data name='地址'>
+						<value>Shop1721,17/F,610 Nathan Road,Hollywood Plaza,Mongkok, Kowloon</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2780 0238</value>
+					</Data>
+					<Data name='分類'>
+						<value>服裝及配飾</value>
+					</Data>
+				</ExtendedData>
+				<address>Shop1721,17/F,610 Nathan Road,Hollywood Plaza,Mongkok, Kowloon</address>
+			</Placemark>
+			<Placemark>
+				<name>老正工作室</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/%E8%80%81%E6%AD%A3%E5%B7%A5%E4%BD%9C%E5%AE%A4-826691630729159/<br>地址: <br>聯絡電話: <br>分類: 專業服務]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/%E8%80%81%E6%AD%A3%E5%B7%A5%E4%BD%9C%E5%AE%A4-826691630729159/</value>
+					</Data>
+					<Data name='地址'>
+						<value></value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>專業服務</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>114.1054631,22.3017233,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>台灣赫茲租車</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/herze.tw<br>地址: 台灣高雄市建國二路262號<br>聯絡電話: +88672361280<br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/herze.tw</value>
+					</Data>
+					<Data name='地址'>
+						<value>台灣高雄市建國二路262號</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>+88672361280</value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>台灣高雄市建國二路262號</address>
+			</Placemark>
+			<Placemark>
+				<name>雅緻裝飾工程公司</name>
+				<description><![CDATA[Facebook / Website: <br>地址: <br>聯絡電話: <br>分類: 室內設計/裝修]]></description>
+				<styleUrl>#icon-960-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value></value>
+					</Data>
+					<Data name='地址'>
+						<value></value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>室內設計/裝修</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>114.1112137,22.3114904,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Integrative Global Ltd</name>
+				<description><![CDATA[Facebook / Website: https://www.integrative.it/<br>地址: Avenida de Commercial, FIT Centre, 5th Floor, Suite 1722, Macau<br>聯絡電話: 5804 9082<br>分類: 專業服務]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.integrative.it/</value>
+					</Data>
+					<Data name='地址'>
+						<value>Avenida de Commercial, FIT Centre, 5th Floor, Suite 1722, Macau</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>5804 9082</value>
+					</Data>
+					<Data name='分類'>
+						<value>專業服務</value>
+					</Data>
+				</ExtendedData>
+				<address>Avenida de Commercial, FIT Centre, 5th Floor, Suite 1722, Macau</address>
+			</Placemark>
+			<Placemark>
+				<name>Medium Rare Company Limited</name>
+				<description><![CDATA[Facebook / Website: <br>地址: Unit 601-2, 6/F, Union Park Tower, 168 Electric Road, North Point<br>聯絡電話: <br>分類: ]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value></value>
+					</Data>
+					<Data name='地址'>
+						<value>Unit 601-2, 6/F, Union Park Tower, 168 Electric Road, North Point</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<address>Unit 601-2, 6/F, Union Park Tower, 168 Electric Road, North Point</address>
+			</Placemark>
+			<Placemark>
+				<name>紫盈薈 MAHICAN HUB</name>
+				<description><![CDATA[Facebook / Website: www.mahicanhub.hk<br>地址: 元朗青山公路69號一樓<br>聯絡電話: 54072148<br>分類: 個人護理]]></description>
+				<styleUrl>#icon-960-0BA9CC</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.mahicanhub.hk</value>
+					</Data>
+					<Data name='地址'>
+						<value>元朗青山公路69號一樓</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>54072148</value>
+					</Data>
+					<Data name='分類'>
+						<value>個人護理</value>
+					</Data>
+				</ExtendedData>
+				<address>元朗青山公路69號一樓</address>
+			</Placemark>
+			<Placemark>
+				<name>Kalam Engineering Company Limited</name>
+				<description><![CDATA[Facebook / Website: <br>地址: Room 1402, 14/F, Island Industrial Building, 81-87 Tung Chau Street, Kowloon<br>聯絡電話: 64089868<br>分類: 專業服務]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value></value>
+					</Data>
+					<Data name='地址'>
+						<value>Room 1402, 14/F, Island Industrial Building, 81-87 Tung Chau Street, Kowloon</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>64089868</value>
+					</Data>
+					<Data name='分類'>
+						<value>專業服務</value>
+					</Data>
+				</ExtendedData>
+				<address>Room 1402, 14/F, Island Industrial Building, 81-87 Tung Chau Street, Kowloon</address>
+			</Placemark>
+			<Placemark>
+				<name>JP Employment Agency</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/JPagencyCentral/<br>地址: 6/F, Yue's House, 306 Des Veoux Road Central, Sheung Wan<br>聯絡電話: 3102 0378<br>分類: 專業服務]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/JPagencyCentral/</value>
+					</Data>
+					<Data name='地址'>
+						<value>6/F, Yue's House, 306 Des Veoux Road Central, Sheung Wan</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>3102 0378</value>
+					</Data>
+					<Data name='分類'>
+						<value>專業服務</value>
+					</Data>
+				</ExtendedData>
+				<address>6/F, Yue's House, 306 Des Veoux Road Central, Sheung Wan</address>
+			</Placemark>
+			<Placemark>
+				<name>HappyMade 開心手作</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/HappyMadeHK/<br>地址: <br>聯絡電話: 6303 9402<br>分類: 服裝及配飾]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/HappyMadeHK/</value>
+					</Data>
+					<Data name='地址'>
+						<value></value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>6303 9402</value>
+					</Data>
+					<Data name='分類'>
+						<value>服裝及配飾</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>114.1185951,22.2937026,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TromsoAurora挪威中文極光團
+</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/tromsoaurora/<br>地址: Tromso, Norway<br>聯絡電話: <br>分類: 旅遊<br>]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/tromsoaurora/</value>
+					</Data>
+					<Data name='地址'>
+						<value>Tromso, Norway</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>旅遊
+</value>
+					</Data>
+				</ExtendedData>
+				<address>Tromso, Norway</address>
+			</Placemark>
+			<Placemark>
+				<name>Furrenz Pet Sitters 寵物保姆
+</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/furrenzpetsitters<br>地址: <br>聯絡電話: 8199 9813<br><br>分類: 寵物護理]]></description>
+				<styleUrl>#icon-960-F8971B</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/furrenzpetsitters</value>
+					</Data>
+					<Data name='地址'>
+						<value></value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>8199 9813
+</value>
+					</Data>
+					<Data name='分類'>
+						<value>寵物護理</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>114.1068363,22.2948938,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>My Little Coffee
+</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/MYLITTLECOFFEE.HK<br>地址: 尖東加連威老道100號港晶中心地下3號舖<br>聯絡電話: 3488 8387<br>分類: 餐廳<br>]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/MYLITTLECOFFEE.HK</value>
+					</Data>
+					<Data name='地址'>
+						<value>尖東加連威老道100號港晶中心地下3號舖</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>3488 8387</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳
+</value>
+					</Data>
+				</ExtendedData>
+				<address>尖東加連威老道100號港晶中心地下3號舖</address>
+			</Placemark>
+			<Placemark>
+				<name>Studio Roof
+</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/roof.hk/<br>地址: room1003, 43-55 wyndham street, central, Hong Kong<br>聯絡電話: 6762 2823<br><br>分類: 室內設計/裝修<br>]]></description>
+				<styleUrl>#icon-960-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/roof.hk/</value>
+					</Data>
+					<Data name='地址'>
+						<value>room1003, 43-55 wyndham street, central, Hong Kong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>6762 2823
+</value>
+					</Data>
+					<Data name='分類'>
+						<value>室內設計/裝修
+</value>
+					</Data>
+				</ExtendedData>
+				<address>room1003, 43-55 wyndham street, central, Hong Kong</address>
+			</Placemark>
+			<Placemark>
+				<name>ButterPly</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/butterplyfurniture/<br>地址: <br>聯絡電話: <br>分類: 室內設計/裝修]]></description>
+				<styleUrl>#icon-960-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/butterplyfurniture/</value>
+					</Data>
+					<Data name='地址'>
+						<value></value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>室內設計/裝修</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>114.1319847,22.2971968,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kiki Romance</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/kikiromance/<br>地址: <br>聯絡電話: <br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/kikiromance/</value>
+					</Data>
+					<Data name='地址'>
+						<value></value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>114.1394949,22.2975541,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Marshmallow Moment</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/marshmallowmoment<br>地址: <br>聯絡電話: 90368885<br>分類: 旅遊]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/marshmallowmoment</value>
+					</Data>
+					<Data name='地址'>
+						<value></value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>90368885</value>
+					</Data>
+					<Data name='分類'>
+						<value>旅遊</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>114.1274357,22.2939408,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Second Kill Store</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/SecondKillHK/<br>地址: 旺角登打士街56號柏裕商業中心16樓08-13室<br>聯絡電話: 3956 4737<br>分類: 服裝及配飾]]></description>
+				<styleUrl>#icon-960-62AF44</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/SecondKillHK/</value>
+					</Data>
+					<Data name='地址'>
+						<value>旺角登打士街56號柏裕商業中心16樓08-13室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>3956 4737</value>
+					</Data>
+					<Data name='分類'>
+						<value>服裝及配飾</value>
+					</Data>
+				</ExtendedData>
+				<address>旺角登打士街56號柏裕商業中心16樓08-13室</address>
+			</Placemark>
+			<Placemark>
+				<name>建基兒童發展中心</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/FUNdamentalsHK/<br>地址: 九龍彌敦道494-496號晉利商業大廈11樓<br>聯絡電話: 2300 1034<br>分類: 教育]]></description>
+				<styleUrl>#icon-960-E6EEA3</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/FUNdamentalsHK/</value>
+					</Data>
+					<Data name='地址'>
+						<value>九龍彌敦道494-496號晉利商業大廈11樓</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2300 1034</value>
+					</Data>
+					<Data name='分類'>
+						<value>教育</value>
+					</Data>
+				</ExtendedData>
+				<address>九龍彌敦道494-496號晉利商業大廈11樓</address>
+			</Placemark>
+			<Placemark>
+				<name>Taboocha 大杯茶</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/taboocha/<br>地址: 16C Wing Hong Centre, 80 Wing Hong Street, Cheung Sha Wan<br>聯絡電話: 23924288<br>分類: 柴米油鹽]]></description>
+				<styleUrl>#icon-960-93D7E8</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/taboocha/</value>
+					</Data>
+					<Data name='地址'>
+						<value>16C Wing Hong Centre, 80 Wing Hong Street, Cheung Sha Wan</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>23924288</value>
+					</Data>
+					<Data name='分類'>
+						<value>柴米油鹽</value>
+					</Data>
+				</ExtendedData>
+				<address>16C Wing Hong Centre, 80 Wing Hong Street, Cheung Sha Wan</address>
+			</Placemark>
+			<Placemark>
+				<name>DayDream Birthday party</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/daydreambp/<br>地址: 寶業大廈2樓3D室<br>聯絡電話: 9442 3787<br>分類: 專業服務]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/daydreambp/</value>
+					</Data>
+					<Data name='地址'>
+						<value>寶業大廈2樓3D室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>9442 3787</value>
+					</Data>
+					<Data name='分類'>
+						<value>專業服務</value>
+					</Data>
+				</ExtendedData>
+				<address>寶業大廈2樓3D室</address>
+			</Placemark>
+			<Placemark>
+				<name>Raakee </name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/raakeehk/<br>地址: 旺角西洋菜南街138號福苑地下2號舖<br>聯絡電話: 2397 2394<br>分類: 生活品味]]></description>
+				<styleUrl>#icon-960-FAD199</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/raakeehk/</value>
+					</Data>
+					<Data name='地址'>
+						<value>旺角西洋菜南街138號福苑地下2號舖</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>2397 2394</value>
+					</Data>
+					<Data name='分類'>
+						<value>生活品味</value>
+					</Data>
+				</ExtendedData>
+				<address>旺角西洋菜南街138號福苑地下2號舖</address>
+			</Placemark>
+			<Placemark>
+				<name>博多 らーめん 別天神</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/betsutenjin.ramen/<br>地址: 銅鑼灣告士打道277號地鋪<br>聯絡電話: 3488 2693<br>分類: 餐廳]]></description>
+				<styleUrl>#icon-960-9FC3FF</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/betsutenjin.ramen/</value>
+					</Data>
+					<Data name='地址'>
+						<value>銅鑼灣告士打道277號地鋪</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>3488 2693</value>
+					</Data>
+					<Data name='分類'>
+						<value>餐廳</value>
+					</Data>
+				</ExtendedData>
+				<address>銅鑼灣告士打道277號地鋪</address>
+			</Placemark>
+			<Placemark>
+				<name>劉皓嵐 aka.劉小華</name>
+				<description><![CDATA[Facebook / Website: https://www.facebook.com/lauxsiuwah/<br>地址: <br>聯絡電話: <br>分類: 個人贊助]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>https://www.facebook.com/lauxsiuwah/</value>
+					</Data>
+					<Data name='地址'>
+						<value></value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value>個人贊助</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>114.1027164,22.3097435,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>blink Intensive Tears</name>
+				<description><![CDATA[Facebook / Website: http://www.myeyehealth.com/<br>地址: <br>聯絡電話: <br>分類: ]]></description>
+				<styleUrl>#icon-960-B7DBAB</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.myeyehealth.com/</value>
+					</Data>
+					<Data name='地址'>
+						<value></value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value></value>
+					</Data>
+					<Data name='分類'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>114.1057205,22.2934643,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hong Kong Rabbit Society</name>
+				<description><![CDATA[Facebook / Website: http://www.facebook.com/HongKongRabbitSociety<br>地址: 旺角塘尾道60-62號福康工業大廈502室<br>聯絡電話: 35800050<br>分類: 寵物護理]]></description>
+				<styleUrl>#icon-960-F8971B</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>http://www.facebook.com/HongKongRabbitSociety</value>
+					</Data>
+					<Data name='地址'>
+						<value>旺角塘尾道60-62號福康工業大廈502室</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>35800050</value>
+					</Data>
+					<Data name='分類'>
+						<value>寵物護理</value>
+					</Data>
+				</ExtendedData>
+				<address>旺角塘尾道60-62號福康工業大廈502室</address>
+			</Placemark>
+			<Placemark>
+				<name>比高落價 www.PIQQOO.com</name>
+				<description><![CDATA[Facebook / Website: www.PIQQOO.com<br>地址: 2/F, 203 Des Voeux Road West, Sai Ying Pun, Hong Kong<br>聯絡電話: 29152698<br>分類: 其他]]></description>
+				<styleUrl>#icon-960-7CCFA9</styleUrl>
+				<ExtendedData>
+					<Data name='Facebook / Website'>
+						<value>www.PIQQOO.com</value>
+					</Data>
+					<Data name='地址'>
+						<value>2/F, 203 Des Voeux Road West, Sai Ying Pun, Hong Kong</value>
+					</Data>
+					<Data name='聯絡電話'>
+						<value>29152698</value>
+					</Data>
+					<Data name='分類'>
+						<value>其他</value>
+					</Data>
+				</ExtendedData>
+				<address>2/F, 203 Des Voeux Road West, Sai Ying Pun, Hong Kong</address>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>個人贊助</name>
+			<Placemark>
+				<name>廖天恩</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1268348,22.3087906,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CHAN WAI PING</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1282941,22.3115697,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yiteng Zhang</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1254615,22.3100611,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ONION CHEUNG</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1268348,22.304979,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>無名氏（但姓林嘅）</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1269636,22.3032717,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Maisie Choi</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.123745,22.2996586,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LAU WAI MAN CRESCENT</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1254616,22.3033115,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>李鴻彥</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1273499,22.298507,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>鄭俊輝</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.127264,22.3000557,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Florence Cheng</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1247749,22.301485,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LUI HOI YING &amp; LI CHUI TING</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1270923,22.3016041,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>伊館排隊團</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1284656,22.3039467,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>低調菇徒</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1298389,22.3024379,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yip Pui San</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1371345,22.3123638,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kwong Hay Tung</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1319418,22.3085325,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ellen Ng</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1335725,22.3084928,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>張天琳</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1374564,22.3086914,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cheung Chau Lam's family</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1392588,22.3086914,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>劉新月</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1324568,22.3111331,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Playhouse Limited</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1339159,22.3116095,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Karen Wong</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1355038,22.3102993,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>樊咲</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1355896,22.306726,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ms Ng</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1355467,22.3050585,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Leo Lo</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1355896,22.3019217,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chiu man Wai and Chan kai bun</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1356325,22.3002542,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>些包Mi廉釘啦米</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1357183,22.297435,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Carmen Lo and Benjamin Leung</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1340447,22.2942584,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CUBCH0305</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1321993,22.2942187,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chiko&amp;Jen Co. Ltd</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1303968,22.2941393,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>zan zan</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1357613,22.2942981,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lam Yuk Yam</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1375209,22.2944172,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>麥理民 Mak Lei Man</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.131813,22.3065672,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Law Shuk Ling</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1335297,22.3066466,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>陳靖薇</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1374779,22.3066466,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dawn Shi Fuk Ying</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1391945,22.3065672,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>陳啟龍</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1317701,22.3050188,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>李怡先生</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1318989,22.3019614,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mr. Shun</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1318989,22.3002144,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>撐菇人</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1336155,22.3002541,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HK Youth</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1391945,22.3051379,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ellen Kong</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1392803,22.3019614,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>梁梁關宗親會</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1393661,22.3002542,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Legend Lau</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1374779,22.3002542,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>蔡東豪</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1336584,22.3033909,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>三小褔</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1374779,22.30351,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Denise Lam</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1339588,22.2973556,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>貓貓娘娘</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1376495,22.2975143,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Emily &amp; Bowie Cheung</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1409539,22.2944967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chan Lai Hang</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.131856,22.3034306,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silvia Lam Chiu Yung</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1356325,22.3034703,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Samantha, Chan Lok Sum</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1391945,22.3035497,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>大Gar</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1273499,22.2969982,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>H&amp;N (Hezek Cheung)</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1387224,22.3126814,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>甘默菇</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1357183,22.2958865,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chak Kit Ling Elaine</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1312122,22.3106963,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fai&amp;Lei 15thAnniversary</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1401386,22.3128403,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MAD
+</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1228008,22.3066069,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>尹筱雲女士
+</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.135611,22.3085325,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Poney and Ada</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1356754,22.2989041,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>無名氏</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1225433,22.2980703,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>We Stand As One</name>
+				<description><![CDATA[個人贊助]]></description>
+				<styleUrl>#icon-960-FFDD5E</styleUrl>
+				<Point>
+					<coordinates>114.1295815,22.3124432,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-960-0BA9CC-normal'>
+			<IconStyle>
+				<color>ffCCA90B</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-0BA9CC-highlight'>
+			<IconStyle>
+				<color>ffCCA90B</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-0BA9CC'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-0BA9CC-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-0BA9CC-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-3F5BA9-normal'>
+			<IconStyle>
+				<color>ffA95B3F</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-3F5BA9-highlight'>
+			<IconStyle>
+				<color>ffA95B3F</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-3F5BA9'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-3F5BA9-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-3F5BA9-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-62AF44-normal'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-62AF44-highlight'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-62AF44'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-62AF44-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-62AF44-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-795046-normal'>
+			<IconStyle>
+				<color>ff465079</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-795046-highlight'>
+			<IconStyle>
+				<color>ff465079</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-795046'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-795046-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-795046-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-7CCFA9-normal'>
+			<IconStyle>
+				<color>ffA9CF7C</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-7CCFA9-highlight'>
+			<IconStyle>
+				<color>ffA9CF7C</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-7CCFA9'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-7CCFA9-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-7CCFA9-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-93D7E8-normal'>
+			<IconStyle>
+				<color>ffE8D793</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-93D7E8-highlight'>
+			<IconStyle>
+				<color>ffE8D793</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-93D7E8'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-93D7E8-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-93D7E8-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-9FC3FF-normal'>
+			<IconStyle>
+				<color>ffFFC39F</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-9FC3FF-highlight'>
+			<IconStyle>
+				<color>ffFFC39F</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-9FC3FF'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-9FC3FF-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-9FC3FF-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-A61B4A-normal'>
+			<IconStyle>
+				<color>ff4A1BA6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-A61B4A-highlight'>
+			<IconStyle>
+				<color>ff4A1BA6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-A61B4A'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-A61B4A-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-A61B4A-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-B29189-normal'>
+			<IconStyle>
+				<color>ff8991B2</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-B29189-highlight'>
+			<IconStyle>
+				<color>ff8991B2</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-B29189'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-B29189-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-B29189-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-B7DBAB-normal'>
+			<IconStyle>
+				<color>ffABDBB7</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-B7DBAB-highlight'>
+			<IconStyle>
+				<color>ffABDBB7</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-B7DBAB'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-B7DBAB-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-B7DBAB-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-C6A4CF-normal'>
+			<IconStyle>
+				<color>ffCFA4C6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-C6A4CF-highlight'>
+			<IconStyle>
+				<color>ffCFA4C6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-C6A4CF'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-C6A4CF-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-C6A4CF-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-CDDC39-normal'>
+			<IconStyle>
+				<color>ff39DCCD</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-CDDC39-highlight'>
+			<IconStyle>
+				<color>ff39DCCD</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-CDDC39'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-CDDC39-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-CDDC39-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-D698AD-normal'>
+			<IconStyle>
+				<color>ffAD98D6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-D698AD-highlight'>
+			<IconStyle>
+				<color>ffAD98D6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-D698AD'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-D698AD-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-D698AD-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-E6EEA3-normal'>
+			<IconStyle>
+				<color>ffA3EEE6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-E6EEA3-highlight'>
+			<IconStyle>
+				<color>ffA3EEE6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-E6EEA3'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-E6EEA3-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-E6EEA3-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-EE9C96-normal'>
+			<IconStyle>
+				<color>ff969CEE</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-EE9C96-highlight'>
+			<IconStyle>
+				<color>ff969CEE</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-EE9C96'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-EE9C96-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-EE9C96-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-F8971B-normal'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-F8971B-highlight'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-F8971B'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-F8971B-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-F8971B-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-F9F7A6-normal'>
+			<IconStyle>
+				<color>ffA6F7F9</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-F9F7A6-highlight'>
+			<IconStyle>
+				<color>ffA6F7F9</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-F9F7A6'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-F9F7A6-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-F9F7A6-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-FAD199-normal'>
+			<IconStyle>
+				<color>ff99D1FA</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-FAD199-highlight'>
+			<IconStyle>
+				<color>ff99D1FA</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-FAD199'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-FAD199-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-FAD199-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-FFDD5E-normal'>
+			<IconStyle>
+				<color>ff5EDDFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-FFDD5E-highlight'>
+			<IconStyle>
+				<color>ff5EDDFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-FFDD5E'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-FFDD5E-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-FFDD5E-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
